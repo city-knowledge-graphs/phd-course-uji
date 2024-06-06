@@ -33,4 +33,15 @@ To avoid clashes with the changes on the main branch it is suggested to add gene
 - Laboratory: Ontology Embeddings with OWL2Vec* ([Lab notes](https://github.com/city-knowledge-graphs/phd-course-uji/blob/main/labs/phd-course-kgs-uji-lab-session-4-owl2vec.pdf))
 - [Support codes](https://github.com/city-knowledge-graphs/phd-course-uji/tree/main/python/lab-session4).
 - OWL2Vec* paper: [Springer link](https://doi.org/10.1007/s10994-021-05997-6).
+
+## Project description
+
+Students need to work on a small project (max 2 students per group). There are two options (see [Lab 3 notes](https://github.com/city-knowledge-graphs/phd-course-uji/blob/main/labs/phd-course-kgs-uji-lab-session-3-matching.pdf)):
+1. Create a (simple) system that performs KG to KG alignment. Try to implement some sophisticated ideas as described in the lecture. Selected systems may try to participate in the [OAEI campaign](http://oaei.ontologymatching.org/).
+2. Create a (simple) system that performs CSV to KG matching. Try to implement disambuguation techniques as shown in the lecture. Selected systems may try to participate in the [SemTab challenge](https://www.cs.ox.ac.uk/isg/challenges/sem-tab/).
+
+Submission:
+- **When:** <code style="color : purple">June 30, 23:59 CEST (strict deadline) </code>
+- **What:** a link to the GitHub repository where the system codes are. Please document the repository so that the codes are easy to run
+- **How:** via this [Google form](https://forms.gle/vgMnXDMgvkTg9JRW6).
   
